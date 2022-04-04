@@ -1,7 +1,7 @@
 # MenuLCD
 
 Programa de prueba escrito en MicroPython, Aqui se comenzo una prueba/demostracion de un menu echo en python basado en la placa de desarollo Rasberry pi pico, 
-la version del programa es la V0.1
+la version del programa es la V1.0
 ![imagen](https://user-images.githubusercontent.com/100529589/157733476-f9880260-ac63-41ce-906b-9372334735e5.png) 
 
 IMAGENES DEL PROYECTO:
@@ -14,5 +14,8 @@ Por el momento el codigo fue echo para hacer pruebas de funcionamiento con un me
 y el control de un motor en DC de hasta 12v controlado por un 2n2222 y un Motor AC controlado con un triac y un opto-acoplador para no exponer el Micro procesador.
 
 Aqui un esquema del proyecto Realizado en Kicad 6:
+
+![imagen](https://user-images.githubusercontent.com/100529589/161455323-1145153b-4c02-466c-988d-36dd0442725a.png)
+
 
 
